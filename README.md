@@ -15,6 +15,7 @@ Sähkön hinnan voimakas vaihtelu ja energiatehokkuuden tärkeys ovat nousseet j
 ## How is it used?
 
 Ratkaisua käytetään verkkosovelluksen kautta, josta kotitalous voi tarkastella seuraavan vuorokauden kulutusennustetta ja hintatietoja. Järjestelmä antaa suosituksia siitä, milloin on edullisinta käyttää raskaita kodinkoneita (kuten pesukonetta tai lattialämmitystä) tai ladata sähköautoa. Kohderyhmänä ovat tavalliset kuluttajat, jotka haluavat säästää rahaa vaivattomasti.
+![Smart Home IoT](sebastian-scholz-nuki-IJkSskfEqrM-unsplash.jpg)
 
 ## Data sources and AI methods
 Projektissa hyödynnetään historiallista sähkönkulutusdataa sekä avoimia säätietoja (esim. lämpötilaennusteet, sillä ulkolämpötila vaikuttaa suoraan lämmityksen tarpeeseen). Mallin toteutuksessa käytetään koneoppimismalleja, kuten lineaarista regressiota.
