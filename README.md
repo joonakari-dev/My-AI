@@ -36,8 +36,7 @@ tunnit = [1, 2, 3, 4, 5]
 kulutus_kwh = [1.2, 0.9, 0.8, 1.1, 2.5]
 
 keskikulutus = sum(kulutus_kwh) / len(tunnit)
-print(f"Keskimääräinen sähkönkulutus: {keskikulutus} kWh")
-
+print(f"Keskimääräinen sähkönkulutus: {keskikulutus} kWh")```
 
 ## Challenges
 
