@@ -25,6 +25,18 @@ Projektissa hyödynnetään historiallista sähkönkulutusdataa sekä avoimia s�
 | ----------- | ----------- |
 | Lämpötila   | Ulkolämpötilan vaikutus lämmitysenergian tarpeeseen |
 | Vuorokauden aika | Kulutuksen vaihtelut arkena ja viikonloppuna |
+Markdown
+## Code example
+
+Tässä on yksinkertainen esimerkki siitä, miten sähkönkulutusdataa voidaan käsitellä Pythonilla:
+
+```python
+# Esimerkki sähkönkulutuksen laskennasta
+tunnit = [1, 2, 3, 4, 5]
+kulutus_kwh = [1.2, 0.9, 0.8, 1.1, 2.5]
+
+keskikulutus = sum(kulutus_kwh) / len(tunnit)
+print(f"Keskimääräinen sähkönkulutus: {keskikulutus} kWh")
 
 ## Challenges
 
