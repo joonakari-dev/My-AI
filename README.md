@@ -16,6 +16,7 @@ Sähkön hinnan voimakas vaihtelu ja energiatehokkuuden tärkeys ovat nousseet j
 
 Ratkaisua käytetään verkkosovelluksen kautta, josta kotitalous voi tarkastella seuraavan vuorokauden kulutusennustetta ja hintatietoja. Järjestelmä antaa suosituksia siitä, milloin on edullisinta käyttää raskaita kodinkoneita (kuten pesukonetta tai lattialämmitystä) tai ladata sähköautoa. Kohderyhmänä ovat tavalliset kuluttajat, jotka haluavat säästää rahaa vaivattomasti.
 ![Smart Home IoT](sebastian-scholz-nuki-IJkSskfEqrM-unsplash.jpg)
+![Sähkönkulutuksen data-analyysi](ngital-8OYcY9CRP_0-unsplash.jpg)
 
 ## Data sources and AI methods
 Projektissa hyödynnetään historiallista sähkönkulutusdataa sekä avoimia säätietoja (esim. lämpötilaennusteet, sillä ulkolämpötila vaikuttaa suoraan lämmityksen tarpeeseen). Mallin toteutuksessa käytetään koneoppimismalleja, kuten lineaarista regressiota.
@@ -38,3 +39,5 @@ Tulevaisuudessa projektia voitaisiin laajentaa integroimalla se suoraan älykoti
 - Fingridin avoin data ja sähkömarkkinatilastot
 - Ilmatieteen laitoksen avoin säädata
 - Building AI -kurssin opetusmateriaalit ja esimerkit
+- [Smart Lock photo by Sebastian Scholz (Nuki)](https://unsplash.com/@nuki_smart_lock) on Unsplash
+- [Laptop dashboard photo by ngital](https://unsplash.com) on Unsplash
